@@ -1,4 +1,4 @@
 <?php
-    echo "Hola món<br>"
-    echo "Sóc en vicaqu";
+	echo "Hola món<br>";
+	echo "Sóc en vicaqu";
 ?>
